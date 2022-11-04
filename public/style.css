@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-faily: Verdana, sans-serif;
+}
+
+body {
+	background-color: black;
+	color: white;
+	padding-top: 128px;
+	text-align: center;
+}
+
+button {
+	background-color: orange;
+	border: none;
+	border-radius: 8px;
+	padding: 4px;
+	margin: 2px;
+}
+input {
+	background-color: white;
+	border: none;
+	border-radius: 8px;
+	padding: 4px;
+	margin: 2px;
+}
